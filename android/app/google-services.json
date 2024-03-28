@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079967264915",
+    "project_id": "crud-resep-makanan",
+    "storage_bucket": "crud-resep-makanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079967264915:android:2e6d4434776a7f8169dd66",
+        "android_client_info": {
+          "package_name": "com.example.tugas2_chapter6_crud_resepmakanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJR8ZeT5Vb2EEKMhwS-64wxj4Q5XsxBiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
